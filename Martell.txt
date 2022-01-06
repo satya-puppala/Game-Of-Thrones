@@ -1,0 +1,58 @@
+Princess Martell,Female,Deceased,Unknown
+Doran Martell,Male,Deceased,Cautious/Subtle
+Mellario,Female,Alive,Unknown
+Mors Martell,Male,Deceased,Unknown 
+Olyvar Martell,Female,Deceased,Unknown
+Rhaegar Targaryen,Male,Deceased,Intelligent/Thoughtful/Musical
+Ellia Martell,Female,Deceased,Beautiful/Devoted
+Oberyn Martell,Male,Deceased,Fierce/Graceful/Witty
+Unknown Women,Female,Deceased,Unknown
+Ellaria Sand,Female,Alive,Exotic/Fiece
+Arianne Martell,Female,Alive,Calculating/Adventurous
+Quentyn Martell,Male,Deceased,Sensible/Dutiful
+Trystane Martell,Male,Alive,Sickly
+Obara Sand,Female,Deceased,Angry/Warrior
+Tyene Sand,Female,Deceased,Treacherous
+Nymeria Sand,Female,Deceased,Deadly
+Sarella Sand,Female,Alive,Curiosity
+Elia Sand,Female,Alive,Wild
+Dorea Sand,Female,Alive,Menace
+Obella Sand,Female,Alive,Unknown
+Loreza Sand,Female,Alive,Unknown
+Rhaenys Targaryen,Female,Deceased,Unknown
+Aegon Targaryen,Male,Deceased,Unknown
+Princess Martell,Mother,Doran Martell
+Princess Martell,Mother,Mors Martell
+Princess Martell,Mother,Olyvar Martell
+Princess Martell,Mother,Ellia Martell
+Princess Martell,Mother,Oberyn Martell
+Doran Martell,Husband,Mellario
+Doran Martell,Father,Arianne Martell
+Doran Martell,Father,Quentyn Martell
+Doran Martell,Father,Trystane Martell
+Mellario,Mother,Arianne Martell
+Mellario,Mother,Quentyn Martell
+Mellario,Mother,Trystane Martell
+Rhaegar Targaryen,Ex-Husband,Ellia Martell
+Rhaegar Targaryen,Father,Rhaenys Targaryen
+Rhaegar Targaryen,Father,Aegon Targaryen
+Ellia Martell,Mother,Rhaenys Targaryen
+Ellia Martell,Mother,Aegon Targaryen
+Oberyn Martell,Lover,Unknown Women
+Oberyn Martell,Lover,Ellaria Sand
+Oberyn Martell,Father,Obara Sand
+Oberyn Martell,Father,Tyene Sand
+Oberyn Martell,Father,Nymeria Sand
+Oberyn Martell,Father,Sarella Sand
+Oberyn Martell,Father,Elia Sand
+Oberyn Martell,Father,Dorea Sand
+Oberyn Martell,Father,Obella Sand
+Oberyn Martell,Father,Loreza Sand
+Unknown Women,Mother,Obara Sand
+Unknown Women,Mother,Tyene Sand
+Unknown Women,Mother,Nymeria Sand
+Unknown Women,Mother,Sarella Sand
+Ellaria Sand,Mother,Elia Sand
+Ellaria Sand,Mother,Dorea Sand
+Ellaria Sand,Mother,Obella Sand
+Ellaria Sand,Mother,Loreza Sand

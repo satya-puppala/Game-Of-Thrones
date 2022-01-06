@@ -1,0 +1,27 @@
+Jasper Arryn,Male,Deceased,Unknown
+Jon Arryn,Male,Deceased,Trusting/Prudent/Wise
+Lysa Tully,Female,Deceased,Fearful/Cruel/Inconsistent
+Alys Arryn,Female,Deceased,Unknown
+Elys Waynwood,Male,Deceased,Unknown
+Ronnel Arryn,Male,Deceased,Unknown
+Unknown Belmore,Female,Alive,Unknown
+Robert Arryn,Male,Alive,Sickly/Weak
+Denys Arryn,Male,Deceased,Gallant/Handsome
+Unknown Arryn,Female,Deceased,Unknown
+Elbert Arryn,Male,Deceased,Loyal
+Harrold Hardyng,Male,Alive,Strong/Handsome
+Jasper Arryn,Father,Jon Arryn
+Jasper Arryn,Father,Alys Arryn
+Jasper Arryn,Father,Ronnel Arryn
+Jon Arryn,Husband,Lysa Tully
+Jon Arryn,Father,Robert Arryn
+Lysa Tully,Mother,Robert Arryn
+Elys Waynwood,Husband,Alys Arryn
+Elys Waynwood,Father,Denys Arryn
+Elys Waynwood,Father,Unknown Arryn
+Alys Arryn,Mother,Denys Arryn
+Alys Arryn,Mother,Unknown Arryn
+Ronnel Arryn,Husband,Unknown Belmore
+Ronnel Arryn,Father,Elbert Arryn
+Unknown Belmore,Mother,Elbert Arryn
+Unknown Arryn,Mother,Harrold Hardyng

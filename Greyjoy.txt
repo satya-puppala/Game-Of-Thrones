@@ -1,0 +1,38 @@
+Quellon Greyjoy,Male,Deceased,Unknown
+Unknown Sunderly,Female,Deceased,Unknown
+Balon Greyjoy,Male,Deceased,Uncompromising
+Alannys Harlaw,Female,Deceased,Senile
+Cersei Lannister,Female,Alive,Beautiful/Strong/Mad
+Euron Greyjoy,Male,Alive,Unpredictable/Ruthless
+Victarion Greyjoy,Male,Deceased,Brute
+Unknown Wife,Female,Deceased,Unknown
+Urrigon Greyjoy,Male,Deceased,Unknown
+Aeron Greyjoy,Male,Deceased,Humorless
+Rodrik Greyjoy,Male,Deceased,Unknown
+Maron Greyjoy,Male,Deceased,Unknown
+Asha Greyjoy,Female,Alive,Wild/Bold
+Theon Greyjoy,Male,Alive,Timid
+Bastard Son,Male,Alive,Unknown
+Quellon Greyjoy,Husband,Unknown Sunderly
+Quellon Greyjoy,Father,Balon Greyjoy
+Quellon Greyjoy,Father,Euron Greyjoy
+Quellon Greyjoy,Father,Victarion Greyjoy
+Quellon Greyjoy,Father,Urrigon Greyjoy
+Quellon Greyjoy,Father,Aeron Greyjoy
+Unknown Sunderly,Mother,Balon Greyjoy
+Unknown Sunderly,Mother,Euron Greyjoy
+Unknown Sunderly,Mother,Victarion Greyjoy
+Unknown Sunderly,Mother,Urrigon Greyjoy
+Unknown Sunderly,Mother,Aeron Greyjoy
+Balon Greyjoy,Husband,Alannys Harlaw
+Balon Greyjoy,Father,Rodrik Greyjoy
+Balon Greyjoy,Father,Maron Greyjoy
+Balon Greyjoy,Father,Asha Greyjoy
+Balon Greyjoy,Father,Theon Greyjoy
+Alannys Harlaw,Mother,Rodrik Greyjoy
+Alannys Harlaw,Mother,Maron Greyjoy
+Alannys Harlaw,Mother,Asha Greyjoy
+Alannys Harlaw,Mother,Theon Greyjoy
+Euron Greyjoy,Lover,Cersei Lannister
+Euron Greyjoy,Father,Bastard Son
+Victarion Greyjoy,Husband,Unknown Wife

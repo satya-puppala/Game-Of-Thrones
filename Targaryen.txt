@@ -1,0 +1,49 @@
+Unknown Targaryen,Unknown,Deceased,Unknown
+Aerion Targaryen,Male,Deceased,Madness
+Aemon Targaryen,Male,Deceased,Wise/Dutiful
+Aegon V Targaryen,Male,Deceased,Adventurous
+Unknown Queen,Female,Deceased,Unknown
+Duncan Targaryen,Male,Deceased,Unknown
+Aerys II Targaryen,Male,Deceased,Madness/Cruel
+Rhaella Targaryen,Female,Deceased,Sad
+Daeron Targaryen,Male,Deceased,Unknown
+Rhaegar Targaryen,Male,Deceased,Intelligent/Thoughtful/Musical
+Ellia Martell,Female,Deceased,Beautiful/Devoted
+Lyanna Stark,Female,Deceased,Wild/Beautiful
+Viserys Targaryen,Male,Deceased,Madness/Cruel
+Daenerys Targaryen,Female,Deceased,Beautiful/Leader/Strong/Kind
+Drogo,Male,Deceased,Warrior
+Rhaenys Targaryen,Female,Deceased,Unknown
+Aegon Targaryen,Male,Deceased,Unknown
+Jon Snow,Male,Alive,Principled/Honourable/Leader/Kind
+Rhaego,Male,Deceased,Unknown
+Unknown Targaryen,Parent,Aerion Targaryen
+Unknown Targaryen,Parent,Aemon Targaryen
+Unknown Targaryen,Parent,Aegon V Targaryen
+Aegon V Targaryen,Husband,Unknown Queen
+Aegon V Targaryen,Father,Duncan Targaryen
+Aegon V Targaryen,Father,Aerys II Targaryen
+Aegon V Targaryen,Father,Rhaella Targaryen
+Aegon V Targaryen,Father,Daeron Targaryen
+Unknown Queen,Mother,Duncan Targaryen
+Unknown Queen,Mother,Aerys II Targaryen
+Unknown Queen,Mother,Rhaella Targaryen
+Unknown Queen,Mother,Daeron Targaryen
+Aerys II Targaryen,Husband,Rhaella Targaryen
+Aerys II Targaryen,Father,Rhaegar Targaryen
+Aerys II Targaryen,Father,Viserys Targaryen
+Aerys II Targaryen,Father,Daenerys Targaryen
+Rhaella Targaryen,Mother,Rhaegar Targaryen
+Rhaella Targaryen,Mother,Viserys Targaryen
+Rhaella Targaryen,Mother,Daenerys Targaryen
+Rhaegar Targaryen,Ex-Husband,Ellia Martell
+Rhaegar Targaryen,Husband,Lyanna Stark
+Rhaegar Targaryen,Father,Jon Snow
+Rhaegar Targaryen,Father,Rhaenys Targaryen
+Rhaegar Targaryen,Father,Aegon Targaryen
+Ellia Martell,Mother,Rhaenys Targaryen
+Ellia Martell,Mother,Aegon Targaryen
+Lyanna Stark,Mother,Jon Snow
+Daenerys Targaryen,Mother,Rhaego
+Drogo,Husband,Daenerys Targaryen
+Drogo,Father,Rhaego

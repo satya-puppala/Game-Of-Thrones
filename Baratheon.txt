@@ -1,0 +1,21 @@
+Steffon Baratheon,Male,Deceased,Unkown 
+Cassana Baratheon,Female,Deceased,Unkown 
+Robert I Baratheon,Male,Deceased,Strong/Lustful
+Cersei Lannister,Female,Alive,Beautiful/Strong/Mad
+Renly I Baratheon,Male,Deceased,Friendly/Soft
+Stanis I Baratheon,Male,Deceased,Stern/Fiar
+Selyse Florent,Female,Deceased,Stern/Cold
+Gendry,Male,Alive,Strong/Bastard
+Shireen Baratheon,Female,Deceased,Kind/Intellegnet
+Steffon Baratheon,Husband,Cassana Baratheon
+Steffon Baratheon,Father,Robert I Baratheon
+Steffon Baratheon,Father,Stanis I Baratheon
+Steffon Baratheon,Father,Renly I Baratheon
+Cassana Baratheon,Mother,Robert I Baratheon
+Cassana Baratheon,Mother,Stanis I Baratheon
+Cassana Baratheon,Mother,Renly I Baratheon
+Robert I Baratheon,Husband,Cersei Lannister
+Robert I Baratheon,Father,Gendry
+Stanis I Baratheon,Husband,Selyse Florent
+Stanis I Baratheon,Father,Shireen Baratheon
+Selyse Florent,Mother,Shireen Baratheon

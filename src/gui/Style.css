@@ -1,0 +1,111 @@
+
+.label{
+   -fx-text-fill: #C7AC62; 
+}
+
+.button {
+    -fx-background-color: #363946;
+    -fx-background-radius: 30;
+    -fx-text-fill: #C7AC62;
+    -fx-opacity: 0.9; 
+}
+.button:hover {
+     
+    -fx-opacity: 0.9;
+    -fx-effect: dropshadow(gaussian, #F2C23F, 10, 0, 3, 3);
+}
+
+
+.combo-box-base  
+{
+    -fx-background-color: white;
+    -fx-background-radius: 5, 5, 4, 3;
+    -fx-background-insets: 0 0 -1 0, 0, 1, 2;
+    -fx-padding: 0;
+    -fx-opacity: 0.9;
+}
+
+* {
+    -fx-my-menu-color: #263238;                 
+    -fx-my-menu-color-highlighted: #455a64;     
+    -fx-my-menu-font-color: #000000;             
+    -fx-my-menu-font-color-highlighted: #FFFFFF; 
+}
+
+/* MENU BAR + Top-level MENU BUTTONS */
+/*** The menu bar itself ***/    
+.menu-bar {
+    -fx-background-color: linear-gradient(#F2C23F, #6B7B8E); 
+}
+
+/*** Top-level menu itself (not selected / hovered) ***/
+.menu-bar > .container > .menu-button {
+    -fx-background-color: linear-gradient(#F2C23F, #6B7B8E); 
+}
+
+/*** Top-level menu's label (not selected / hovered) ***/
+.menu-bar > .container > .menu-button > .label {
+    -fx-text-fill: -fx-my-menu-font-color;
+}
+
+/*** Top-level menu's label (disabled) ***/
+.menu-bar > .container > .menu-button > .label:disabled {
+    -fx-opacity: 1.0;
+}
+
+
+/* MENU ITEM (children of a MENU BUTTON) */
+/*** The item itself (not hovered / focused) ***/    
+.menu-item {
+    -fx-background-color: linear-gradient(#F2C23F, #6B7B8E); 
+}
+
+/*** The item's label (disabled) ***/   
+.menu-item .label{
+    -fx-opacity: 1.0;
+    -fx-text-fill: -fx-my-menu-font-color;
+}    
+
+/*** The item itself (hovered / focused) ***/    
+.menu-item:focused, .menu-item:hovered {
+    -fx-background-color: #878377;
+}
+
+/*** The item's label (hovered / focused) ***/  
+.menu-item:focused .label, .menu-item:hovered .label {
+    -fx-text-fill: -fx-my-menu-font-color-highlighted;
+}
+
+/* CONTEXT MENU */
+/*** The context menu that contains a menu's menu items ***/  
+.context-menu {
+    -fx-background-color: -fx-my-menu-color; 
+}
+.list-view {
+    -fx-opacity: 0.9;
+}
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: linear-gradient(#C7AC62 0%, #C7AC62 25%, #C7AC62 75%,
+        #C7AC62 100%);
+    -fx-text-fill: white;
+}
+
+.list-cell:even { /* <=== changed to even */
+    -fx-background-color: white;
+}
+
+
+.list-cell:filled:hover {
+    -fx-background-color: #C7AC62;
+    -fx-text-fill: white;
+}
+
+.text-field:disabled { 
+    -fx-text-fill: #000; 
+    -fx-opacity: 0.8; 
+} 
+
+.text-area { 
+    -fx-text-fill: #000; 
+    -fx-opacity: 0.9; 
+} 

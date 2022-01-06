@@ -1,0 +1,21 @@
+Luthor Tyrell,Male,Deceased,Drunk
+Olenna Redwyne,Female,Deceased,Wizened/Cunning
+Mace Tyrell,Male,Deceased,Fool
+Alerie Hightower,Female,Deceased,Dignified
+Renly I Baratheon,Male,Deceased,Friendly/Soft
+Joffrey Lannister,Male,Deceased,Evil/Mad
+Tommen Lannister,Male,Deceased,Good-Hearted
+Margaery Tyrell,Female,Deceased,Intelligent/Shrewd
+Loras Tyrell,Male,Deceased,Handsome/Coureous
+Luthor Tyrell,Husband,Olenna Redwyne
+Luthor Tyrell,Father,Mace Tyrell
+Olenna Redwyne,Mother,Mace Tyrell
+Mace Tyrell,Husband,Alerie Hightower
+Mace Tyrell,Father,Margaery Tyrell
+Mace Tyrell,Father,Loras Tyrell
+Alerie Hightower,Mother,Margaery Tyrell
+Alerie Hightower,Mother,Loras Tyrell
+Renly I Baratheon,Ex-Husband,Margaery Tyrell
+Joffrey Lannister,Ex-Husband,Margaery Tyrell
+Tommen Lannister,Ex-Husband,Margaery Tyrell
+Loras Tyrell,Lover,Renly I Baratheon

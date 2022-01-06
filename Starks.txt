@@ -1,0 +1,37 @@
+Rickard Stark,Male,Deceased,Dignified
+Lyarra Stark,Female,Deceased,Unknown
+Brandon Stark,Male,Deceased,Passionate/Wild
+Eddard Stark,Male,Deceased,Honourable/Dutiful
+Catelyn Tully,Female,Deceased,Honest/Dutiful/Loving
+Benjen Stark,Male,Alive,Honourable
+Rhaegar Targaryen,Male,Deceased,Intelligent/Thoughtful/Musical
+Lyanna Stark,Female,Deceased,Wild/Beautiful
+Robb Stark,Male,Deceased,Honourable/Brave
+Sansa Stark,Female,Alive,Elegant/Beautiful
+Arya Stark,Female,Alive,Wild/Strong
+Bran Stark,Male,Alive,Thoughtful
+Rickon Stark,Male,Deceased,Strong-willed/Wild
+Jon Snow,Male,Alive,Principled/Honourable/Leader
+Rickard Stark,Husband,Lyarra Stark
+Rickard Stark,Father,Brandon Stark
+Rickard Stark,Father,Eddard Stark
+Rickard Stark,Father,Benjen Stark
+Rickard Stark,Father,Lyanna Stark
+Lyarra Stark,Mother,Brandon Stark
+Lyarra Stark,Mother,Eddard Stark
+Lyarra Stark,Mother,Benjen Stark
+Lyarra Stark,Mother,Lyanna Stark
+Eddard Stark,Husband,Catelyn Tully
+Eddard Stark,Father,Robb Stark
+Eddard Stark,Father,Sansa Stark
+Eddard Stark,Father,Arya Stark
+Eddard Stark,Father,Bran Stark
+Eddard Stark,Father,Rickon Stark
+Catelyn Tully,Mother,Robb Stark
+Catelyn Tully,Mother,Sansa Stark
+Catelyn Tully,Mother,Arya Stark
+Catelyn Tully,Mother,Bran Stark
+Catelyn Tully,Mother,Rickon Stark
+Rhaegar Targaryen,Husband,Lyanna Stark
+Rhaegar Targaryen,Father,Jon Snow
+Lyanna Stark,Mother,Jon Snow

@@ -1,0 +1,22 @@
+Unknown Tully,Unknown,Deceased,Unknown
+Hoster Tully,Male,Deceased,Proud
+Minisa Tully,Female,Deceased,Pretty/Warm
+Brynden Tully,Male,Deceased,Kind/Patient/Blunt
+Catelyn Tully,Female,Deceased,Honest/Dutiful/Loving
+Eddard Stark,Male,Deceased,Honourable/Dutiful
+Lysa Tully,Female,Deceased,Fearful/Cruel/Inconsistent
+Jon Arryn,Male,Deceased,Trusting/Prudent/Wise
+Edmure Tully,Male,Alive,Lustful/Sullen
+Roslin Frey,Female,Alive,Gentle/Musical/Pretty
+Unknown Tully,Parent,Hoster Tully
+Unknown Tully,Parent,Brynden Tully
+Hoster Tully,Husband,Minisa Tully
+Hoster Tully,Father,Catelyn Tully
+Hoster Tully,Father,Lysa Tully
+Hoster Tully,Father,Edmure Tully
+Minisa Tully,Mother,Catelyn Tully
+Minisa Tully,Mother,Lysa Tully
+Minisa Tully,Mother,Edmure Tully
+Eddard Stark,Husband,Catelyn Tully
+Jon Arryn,Husband,Lysa Tully
+Edmure Tully,Husband,Roslin Frey

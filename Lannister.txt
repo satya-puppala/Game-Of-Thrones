@@ -1,0 +1,68 @@
+Tytos Lannister,Male,Deceased,Weak willed/Forgiving/Jolly
+Jeyne Marbrand,Female,Deceased,Solemn/Shy/Beauty
+Tywin Lannister,Male,Deceased,Calculating/Intelligent/Ruthless
+Joanna Lannister,Famale,Deceased,Beauty
+Kevan Lannister,Male,Deceased,Prudent/Reliable
+Dorna Swyft,Female,Alive,Unknown
+Genna Lannister,Famale,Alive,Intelligent/Shrewd
+Emmon Frey,Male,Deceased,Nervous
+Tygett Lannister,Male,Deceased,Strong
+Darlessa Marbrand,Famale,Alive,Unknown
+Gerion Lannister,Male,Deceased,Funny/Reckless
+Briony,Female,Deceased,Unknown
+Robert I Baratheon,Male,Deceased,Strong/Lustful
+Cersei Lannister,Female,Alive,Beautiful/Strong/Mad
+Jamie Lannister,Male,Alive,Determined/Smug/Loyal
+Tyrion Lannister,Male,Alive,Intelligent/knowledgeable/Kind
+Tyrek Lannister,Male,Deceased,Handsome
+Ermesande Hayford,Female,Alive,Unknown
+Joy Hill,Female,Alive,Sweet
+Lancel Lannister,Male,Deceased,Arrogant/Impatient/Assured
+Martyn Lannister,Male,Alive,Unknown
+Willem Lannister,Male,Deceased,Unknown
+Janei Lannister,Female,Alive,Unknown
+Joffrey Lannister,Male,Deceased,Evil/Mad
+Myrcella Lannister,Female,Deceased,Beautiful/Delicate/Courteous
+Tommen Lannister,Male,Deceased,Good-Hearted
+Tytos Lannister,Husband,Jeyne Marbrand
+Tytos Lannister,Father,Tywin Lannister
+Tytos Lannister,Father,Kevan Lannister
+Tytos Lannister,Father,Genna Lannister
+Tytos Lannister,Father,Tygett Lannister
+Tytos Lannister,Father,Gerion Lannister
+Jeyne Marbrand,Mother,Tywin Lannister
+Jeyne Marbrand,Mother,Kevan Lannister
+Jeyne Marbrand,Mother,Genna Lannister
+Jeyne Marbrand,Mother,Tygett Lannister
+Jeyne Marbrand,Mother,Gerion Lannister
+Tywin Lannister,Husband,Joanna Lannister
+Tywin Lannister,Father,Cersei Lannister
+Tywin Lannister,Father,Jamie Lannister
+Tywin Lannister,Father,Tyrion Lannister
+Joanna Lannister,Mother,Cersei Lannister
+Joanna Lannister,Mother,Jamie Lannister
+Joanna Lannister,Mother,Tyrion Lannister
+Kevan Lannister,Husband,Dorna Swyft
+Kevan Lannister,Father,Lancel Lannister
+Kevan Lannister,Father,Martyn Lannister
+Kevan Lannister,Father,Willem Lannister
+Kevan Lannister,Father,Janei Lannister
+Dorna Swyft,Mother,Lancel Lannister
+Dorna Swyft,Mother,Martyn Lannister
+Dorna Swyft,Mother,Willem Lannister
+Dorna Swyft,Mother,Janei Lannister
+Tygett Lannister,Husband,Darlessa Marbrand
+Tygett Lannister,Father,Tyrek Lannister
+Darlessa Marbrand,Mother,Tyrek Lannister
+Gerion Lannister,Father,Joy Hill
+Gerion Lannister,Lover,Briony
+Briony,Mother,Joy Hill
+Robert I Baratheon,Husband,Cersei Lannister
+Cersei Lannister,Mother,Joffrey Lannister
+Cersei Lannister,Mother,Myrcella Lannister
+Cersei Lannister,Mother,Tommen Lannister
+Jamie Lannister,Lover,Cersei Lannister
+Jamie Lannister,Father,Joffrey Lannister
+Jamie Lannister,Father,Myrcella Lannister
+Jamie Lannister,Father,Tommen Lannister
+Tyrek Lannister,Husband,Ermesande Hayford
